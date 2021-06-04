@@ -1,2 +1,2 @@
-# C24
-Angry Bird layout
+# angryBirdsStage1
+Stage 1 Angry Birds
